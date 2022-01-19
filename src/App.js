@@ -16,6 +16,7 @@ function App() {
       <Footer/>
 
     <h3>My Page</h3>
+    <h3>My Page</h3>
 
 
     </>
